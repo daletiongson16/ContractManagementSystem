@@ -1,0 +1,6 @@
+C:\Users\Dale Tiongson\source\repos\ContractManager\ContractManagerClasses\obj\Debug\ContractManagerClasses.csprojAssemblyReference.cache
+C:\Users\Dale Tiongson\source\repos\ContractManager\ContractManagerClasses\obj\Debug\ContractManagerClasses.csproj.CoreCompileInputs.cache
+C:\Users\Dale Tiongson\source\repos\ContractManager\ContractManagerClasses\bin\Debug\ContractManagerClasses.dll
+C:\Users\Dale Tiongson\source\repos\ContractManager\ContractManagerClasses\bin\Debug\ContractManagerClasses.pdb
+C:\Users\Dale Tiongson\source\repos\ContractManager\ContractManagerClasses\obj\Debug\ContractManagerClasses.dll
+C:\Users\Dale Tiongson\source\repos\ContractManager\ContractManagerClasses\obj\Debug\ContractManagerClasses.pdb

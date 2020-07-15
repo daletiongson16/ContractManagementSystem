@@ -1,0 +1,6 @@
+C:\Users\Dale Tiongson\source\repos\ContractManager\StorageProvider\bin\Debug\StorageProvider.dll
+C:\Users\Dale Tiongson\source\repos\ContractManager\StorageProvider\bin\Debug\StorageProvider.pdb
+C:\Users\Dale Tiongson\source\repos\ContractManager\StorageProvider\obj\Debug\StorageProvider.csprojAssemblyReference.cache
+C:\Users\Dale Tiongson\source\repos\ContractManager\StorageProvider\obj\Debug\StorageProvider.csproj.CoreCompileInputs.cache
+C:\Users\Dale Tiongson\source\repos\ContractManager\StorageProvider\obj\Debug\StorageProvider.dll
+C:\Users\Dale Tiongson\source\repos\ContractManager\StorageProvider\obj\Debug\StorageProvider.pdb
